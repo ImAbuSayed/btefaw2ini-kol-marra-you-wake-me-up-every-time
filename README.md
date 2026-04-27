@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي نورك في السماء بان
+> قلبي ينادي لك في كل مكان
+> أنت الروح وأنت الأمان
+> معاك أنسى كل الزمان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
