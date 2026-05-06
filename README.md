@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/btefaw2ini-kol-marra-you-wake-me-up-every-time/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Music Rights & Licensing for Btefaw2ini Kol Marra – You Wake Me Up Every Time](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Request Licensing for Btefaw2ini Kol Marra – You Wake Me Up Every Time](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
